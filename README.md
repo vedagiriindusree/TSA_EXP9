@@ -68,5 +68,6 @@ arima_model(data, 'Total Volume', order=(5, 1, 0))
 ```
 ### OUTPUT:
 <img width="719" height="466" alt="image" src="https://github.com/user-attachments/assets/1acb536c-2f32-49ec-ac0c-1e5c3df5ba14" />
+
 ### RESULT:
 Thus the program run successfully based on the ARIMA model using python.
